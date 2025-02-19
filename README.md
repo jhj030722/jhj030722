@@ -12,7 +12,7 @@
 ---
 
 ## 📌 Recent Projects
-🚚 [**물류 센터 위치 선정 최적화 입지 분석**] - 배송 기사 GPS 정보를 활용한 공습 서비스 센터 입지 분석 🔗 (링크)  
+🚚 [**물류 센터 위치 선정 최적화 입지 분석**] - 배송 기사 GPS 정보를 활용한 공습 서비스 센터 입지 분석 🔗 (링크)   
 📈 [**게임 유저 플레이 경향 분석**] - 리그오브레전드 API를 활용한 유저 플레이 성향 시각화  🔗 (링크)  
 🛍️ [**이커머스 플랫폼 리뷰 데이터 감성 분석**] - 고객 리뷰 데이터를 활용한 소비자 인사이트 도출 🔗 (링크)  
 ## 📫 Contact Me
@@ -61,21 +61,14 @@ TensorFlow 🔥 (딥러닝)
 
 PyTorch 🔥 (딥러닝) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 
-XGBoost 🚀 (머신러닝)
-
-
-MySQL 🐬 (관계형 DB)
 
 PostgreSQL 🐘 (오픈소스 SQL DB)
 
 MongoDB 🍃 (NoSQL DB)
 
-Google BigQuery ☁ (클라우드 기반 데이터 분석)
 
 AWS S3 ☁ (클라우드 스토리지)
 
-
-Selenium 🦾 (웹 자동화 & 크롤링)
 
 BeautifulSoup 🍜 (HTML 데이터 파싱)
 
