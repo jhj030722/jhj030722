@@ -35,9 +35,10 @@
 
 
 ## 🛠 Tech Stack 🛠  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-11557C?style=for-the-badge&logo=Google&logoColor=white) 
 ![UIPATH](https://img.shields.io/badge/uipath-F693E?style=for-the-badge&logo=uipath&logoColor=white)  
 ![AnyLogic](https://img.shields.io/badge/AnyLogic-006699?style=for-the-badge) 
