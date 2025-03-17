@@ -46,9 +46,9 @@
 ### RPA
 ![UIPATH](https://img.shields.io/badge/uipath-F693E?style=for-the-badge&logo=uipath&logoColor=white)  
 
-
-  
-
+### ENVIROMENT
+![AWS S3](https://img.shields.io/badge/AMAZON_S3-006400?style=for-the-badge&logo=AMAZONS3&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/AMAZON_EC2-C71585?style=for-the-badge&logo=AMAZONEC2&logoColor=white)  
 
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhj030722&show_icons=true&theme=default)  
