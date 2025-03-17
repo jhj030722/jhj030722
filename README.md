@@ -26,57 +26,28 @@
 ## 📊 Language Stack 📊 
  
 ![Python](https://img.shields.io/badge/Python-563D7C?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/r-1572B6?style=for-the-badge&logo=r&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![numpy](https://img.shields.io/badge/numpy-F7DF1E?style=for-the-badge&logo=numpy&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-6DB33F?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=plotly&logoColor=white)   
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=ORACLE&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
+![R](https://img.shields.io/badge/r-1572B6?style=for-the-badge&logo=r&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 🛠 Tech Stack 🛠  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-11557C?style=for-the-badge&logo=Google&logoColor=white) 
-![UIPATH](https://img.shields.io/badge/uipath-F693E?style=for-the-badge&logo=uipath&logoColor=white)  
+### ML/DL
+![numpy](https://img.shields.io/badge/numpy-F7DF1E?style=for-the-badge&logo=numpy&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-6DB33F?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=plotly&logoColor=white)   
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+
+### SIMULATION
 ![AnyLogic](https://img.shields.io/badge/AnyLogic-006699?style=for-the-badge) 
 ![AnyLogistix](https://img.shields.io/badge/AnyLogistix-D73A49?style=for-the-badge)  
+
+
+### IDE
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+### RPA
+![UIPATH](https://img.shields.io/badge/uipath-F693E?style=for-the-badge&logo=uipath&logoColor=white)  
+
+
   
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
- 
-
-
-
-
----
-## 앞으로..
-
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
-
-Bash 🖥 (자동화 및 데이터 처리)
-
-Power BI 📊 (Microsoft 데이터 분석 도구)
-
-TensorFlow 🔥 (딥러닝)
-
-PyTorch 🔥 (딥러닝) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-
-
-PostgreSQL 🐘 (오픈소스 SQL DB)
-
-MongoDB 🍃 (NoSQL DB)
-
-
-AWS S3 ☁ (클라우드 스토리지)
-
-
-BeautifulSoup 🍜 (HTML 데이터 파싱)
-
-Scrapy 🕷 (웹 크롤링 프레임워크)
 
 
 # GitHub Stats
