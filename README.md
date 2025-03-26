@@ -1,5 +1,6 @@
 
-# 🚀 Welcome to My GitHub! 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=welcome to my github!" />
 
 
 
@@ -23,32 +24,18 @@
 💼 **LinkedIn:** [linkedin.com/in/jhj030722](https://linkedin.com/in/jhj030722)  
 🌎 **Portfolio:** [instagram](https://yourportfolio.com)
 
-## 📊 Language Stack 📊 
+## 📊 
  
 ![Python](https://img.shields.io/badge/Python-563D7C?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/r-1572B6?style=for-the-badge&logo=r&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-## 🛠 Tech Stack 🛠  
-
-### ML/DL
 ![numpy](https://img.shields.io/badge/numpy-F7DF1E?style=for-the-badge&logo=numpy&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-6DB33F?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=plotly&logoColor=white)   
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
-### SIMULATION
-![AnyLogic](https://img.shields.io/badge/AnyLogic-006699?style=for-the-badge) 
-![AnyLogistix](https://img.shields.io/badge/AnyLogistix-D73A49?style=for-the-badge)  
-
-
-### IDE
- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
-### RPA
-![UIPATH](https://img.shields.io/badge/uipath-F693E?style=for-the-badge&logo=uipath&logoColor=white)  
 
 ### ENVIROMENT
-![AWS S3](https://img.shields.io/badge/AMAZON_S3-006400?style=for-the-badge&logo=AMAZONS3&logoColor=white)  
-![AWS EC2](https://img.shields.io/badge/AMAZON_EC2-C71585?style=for-the-badge&logo=AMAZONEC2&logoColor=white)  
+![AWS S3](https://img.shields.io/badge/AMAZON_S3-006400?style=for-the-badge&logo=AMAZONS3&logoColor=white)  ![AWS EC2](https://img.shields.io/badge/AMAZON_EC2-C71585?style=for-the-badge&logo=AMAZONEC2&logoColor=white)  
 
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhj030722&show_icons=true&theme=default)  
