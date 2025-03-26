@@ -1,6 +1,7 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=welcome to my github!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=welcome%20to%20my%20github&fontColor=000000&fontSize=50" />
+
 
 
 
